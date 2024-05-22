@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-simple-aspect-ratio"
+description = "Nodes:SimpleAspectRatio"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/wwwins/ComfyUI-Simple-Aspect-Ratio"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Simple-Aspect-Ratio"
+Icon = ""
